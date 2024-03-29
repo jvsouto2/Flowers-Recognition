@@ -12,17 +12,16 @@ Para executar esse projeto, é necessário ter uma instalação do Python e as b
 - pip (gerenciador de pacotes Python)
 - Git
 
-- #### Dataset
+#### Dataet
 
 Flower dataset
 
-https://www.kaggle.com/datasets/alxmamaev/flowers-recognition
--4242 imagens de flores
--5 classes
-[flowers]
-
--[daisy]
--[dandelion]
--[rose]
--[suinflower]
--[tulip]
+- https://www.kaggle.com/datasets/alxmamaev/flowers-recognition
+- 4242 imagens de flores
+- 5 classes
+- [flowers]
+- [daisy]
+- [dandelion]
+- [rose]
+- [suinflower]
+- [tulip]
