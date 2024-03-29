@@ -17,12 +17,12 @@ Para executar esse projeto, é necessário ter uma instalação do Python e as b
 Flower dataset
 
 https://www.kaggle.com/datasets/alxmamaev/flowers-recognition
-4242 imagens de flores
-5 classes
+-4242 imagens de flores
+-5 classes
 [flowers]
 
-[daisy]
-[dandelion]
-[rose]
-[suinflower]
-[tulip]
+-[daisy]
+-[dandelion]
+-[rose]
+-[suinflower]
+-[tulip]
